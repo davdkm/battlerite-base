@@ -1,0 +1,15 @@
+{
+  "name": "battlerite-base",
+  "version": "1.0.0",
+  "description": "A Battlerite fan site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Kim",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
